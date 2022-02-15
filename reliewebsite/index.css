@@ -1,0 +1,94 @@
+.logo {
+    position: absolute;
+    top:-35px;
+    left: 50px;
+}
+
+header h1 {
+    color: white;
+    font-family: Montserrat;
+    font-size: 1em;
+    text-transform: uppercase;
+    width: 1200px;
+    position: relative;
+    top: 150px;
+    left: 415px;
+}
+
+header h2 {
+    color: white;
+    font-family: Montserrat;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    position: relative;
+    bottom: -680px;
+    left: 610px;
+}
+
+body {
+    background-image: url(ash89-wutmu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1 {
+    font-family: Montserrat;
+    font-size: 1em;
+}
+
+.indexbtn {
+    position: absolute;
+    top: 10px;
+    right: 370.5px;
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    height: 60px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Montserrat;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.applicationbtn {
+    position: absolute;
+    top: 10px;
+    right: 199.77px;
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    height: 60px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Montserrat;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.aboutusbtn {
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    height: 60px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Montserrat;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
